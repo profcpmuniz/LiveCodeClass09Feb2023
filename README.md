@@ -1,7 +1,7 @@
 # Hello World with Vanilla JS
 
 Start coding in 30 seconds by opening this template in gitpod:
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io#https://github.com/4GeeksAcademy/vanillajs-hello.git)
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io#https://github.com/profcpmuniz/LiveCodeClass09Feb2023.git)
 
 ### Manual Installation
 
